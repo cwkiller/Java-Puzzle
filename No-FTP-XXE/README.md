@@ -1,5 +1,5 @@
 # No-FTP-XXE
-如何利用下面代码中的XXE外带多行文件，JDK>=8u131，服务部署在Windows上
+如何利用下面代码中的XXE外带多行文件，将附件xxe-demo-1.0.0.jar部署在Windows上，JDK>=8u131
 
 代码如下
 ```
