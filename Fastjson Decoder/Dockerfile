@@ -1,0 +1,7 @@
+FROM openjdk:8u342
+
+COPY CVE-2022-25845-In-Spring-1.0-SNAPSHOT.jar /
+
+CMD java -jar /CVE-2022-25845-In-Spring-1.0-SNAPSHOT.jar
+
+EXPOSE 8078
