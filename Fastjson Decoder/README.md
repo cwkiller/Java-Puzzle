@@ -14,11 +14,25 @@ Java Puzzle 系列第三题，本题为`lu2ker`师傅投稿。
 
 请勿进行扫描爆破等操作
 
-### 源码及访问地址
+### 环境搭建
 
 本地环境搭建：
 
-**
+下载CVE-2022-25845-In-Spring-1.0-SNAPSHOT.jar、Dockerfile
+
+构建image
+
+```shell
+docker build -t fj_test .
+```
+
+启动容器
+
+```shell
+docker run -d -p 8078:8078 <image_id>
+```
+
+请求http://127.0.0.1:8078/json
 
 远程访问地址：
 
