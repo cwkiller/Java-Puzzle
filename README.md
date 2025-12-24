@@ -36,7 +36,7 @@ Java-Puzzle 是一个精心设计的 Java Web 安全谜题集合，旨在通过�
 |------|---------|------|-----------|------|
 | 01 | [No-FTP-XXE](./No-FTP-XXE) | ⭐⭐⭐ | XXE、协议解析 | [cwkiller](https://github.com/cwkiller) |
 | 02 | [Tomcat's Secret Chamber](./Tomcat's%20Secret%20Chamber) | ⭐⭐⭐ | Tomcat 配置、隐藏特性、字符截断 | [cwkiller](https://github.com/cwkiller) |
-| 03 | [Fastjson Decoder](./Fastjson%20Decoder) | ⭐⭐⭐ | ? | [lu2ker](https://github.com/lu2ker) |
+| 03 | [Fastjson Decoder](./Fastjson%20Decoder) | ⭐⭐⭐ | io链、ascii jar、类加载 | [lu2ker](https://github.com/lu2ker) |
 
 > 难度说明：⭐ 简单 | ⭐⭐ 中等 | ⭐⭐⭐ 困难 | ⭐⭐⭐⭐ 专家 | ⭐⭐⭐⭐⭐ 大师
 
